@@ -1,1 +1,3 @@
 tools used include cyberchef, dcodefr
+echo -n "message plain text" | base64 ==> to encrypt message
+echo "cipher text" | base64 -d ==> to decryp message
